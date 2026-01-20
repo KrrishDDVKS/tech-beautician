@@ -12,4 +12,5 @@ langchain-core
 langchain
 requests
 selenium
+streamlit
 beautifulsoup4
